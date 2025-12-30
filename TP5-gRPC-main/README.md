@@ -264,7 +264,7 @@ BidirictionnalModelClient
 
 ## 👥 Auteurs
 
-Anas KRIR & Adam EL YOURI <br/>
+Mallouk Mohammed Taha <br/>
 Étudiants Ingénieurs — MIAGE <br/>
 TP réalisé dans le cadre du module ARCHITECTURE DES COMPOSANTS D'ENTREPRISES <br/>
 
@@ -279,6 +279,6 @@ Java · gRPC · Protocol Buffers · Maven · Client-Server · Streaming RPC <br/
 ✅ Projet sous licence MIT  <br/>
 Libre d’utilisation, modification et distribution à des fins pédagogiques.  <br/>
 
-© 2025 — Anas KRIR & Adam EL YOURI  <br/>
+© 2025 — Mallouk Mohammed Taha  <br/>
 
 ---
